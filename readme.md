@@ -44,7 +44,7 @@ python passgen.py -c ftech
 
 ### Dependencies:
 - [Requests](http://docs.python-requests.org/en/latest/user/install/#install)
-- [Pyperclip](http://coffeeghost.net/2010/10/09/pyperclip-a-cross-platform-clipboard-module-for-python/)
+- [Pyperclip](https://pypi.org/project/pyperclip/)
 
 
 
