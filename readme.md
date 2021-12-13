@@ -4,7 +4,7 @@
 ### Basic Usage:
 Generates a password list by replaceing the first character of the target password and appending an extra character to the end.
 ```
-python passgen.py smith
+python passgen.py ftech
 ```
 ### Passwords with numbers:
 Generates a large number of potential passwords by replace the first character and appending a 4 digit number from 0-9999 to the end of the target password.
