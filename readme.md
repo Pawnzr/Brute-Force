@@ -1,5 +1,5 @@
-PassGen
-Dictionary attack tool
+# PassGen
+## Dictionary attack tool
 ## Examples:
 ### Basic Usage:
 Generates a password list by replaceing the first character of the target password and appending an extra character to the end.
